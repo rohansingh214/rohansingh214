@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rohansingh214
 - 👀 I’m interested in Data
-- 🌱 I’m currently learning iOS Development
+- 🌱 I’m currently learning Data Engineering
 - 📫 How to reach me rohansingh11196@gmail.com
 
 <!---
